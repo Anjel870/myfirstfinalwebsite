@@ -1,0 +1,28 @@
+img
+{
+  float: left;
+  margin-left: 10px;
+  border-radius: 50px;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+}
+body{
+     background-color: #e3fdfd;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: green;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: green;
+   text-shadow: 2px 2px 5px red;
+}
+h3{
+  text-align: center;
+  color: #66BFBF;
+  text-decoration: underline;
+}
